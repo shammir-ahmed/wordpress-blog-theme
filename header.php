@@ -45,28 +45,6 @@
 					<p class="site-description"><?php echo $modernblog_description; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped ?></p>
 				<?php endif; ?>
 			</div><!-- .site-branding -->
-
-			<nav id="site-navigation" class="main-navigation">
-				<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
-					<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-						<path d="M3 12H21M3 6H21M3 18H21" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-					</svg>
-					<span class="screen-reader-text"><?php esc_html_e( 'Primary Menu', 'modernblog' ); ?></span>
-				</button>
-				<?php
-				wp_nav_menu(
-					array(
-						'theme_location' => 'menu-1',
-						'menu_id'        => 'primary-menu',
-						'container_class' => 'primary-menu-container',
-					)
-				);
-				?>
-			</nav><!-- #site-navigation -->
-
-			<div class="header-search">
-				<?php get_search_form(); ?>
-			</div>
 		</div><!-- .container -->
 	</header><!-- #masthead -->
 

@@ -49,7 +49,7 @@
 					<div class="theme-credits">
 						<?php
 						/* translators: 1: Theme name, 2: Theme author. */
-						printf( esc_html__( 'Theme: %1$s by %2$s.', 'modernblog' ), 'ModernBlog', '<a href="https://example.com">Your Name</a>' );
+						printf( esc_html__( 'Theme: %1$s by %2$s.', 'modernblog' ), 'ModernBlog', '<a href="https://example.com">Md Shammir Ahmed</a>' );
 						?>
 					</div>
 				</div>

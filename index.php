@@ -17,19 +17,20 @@ get_header();
 
 	<main id="primary" class="site-main container">
 		
-		<div class="row">
-			<div class="col-lg-8 content-area">
+		<div class="row justify-content-center">
+			<div class="col-lg-12 content-area">
 				<?php
 				if ( have_posts() ) :
 
 					if ( is_home() && ! is_front_page() ) :
 						?>
-						<header class="page-header">
-							<h1 class="page-title screen-reader-text"><?php single_post_title(); ?></h1>
+						<header class="page-header text-center mb-5">
+							<h1 class="page-title"><?php single_post_title(); ?></h1>
 						</header>
 						<?php
 					endif;
 
+					echo '<div class="artauk-post-grid">';
 					/* Start the Loop */
 					while ( have_posts() ) :
 						the_post();
@@ -42,6 +43,7 @@ get_header();
 						get_template_part( 'template-parts/content', get_post_type() );
 
 					endwhile;
+					echo '</div>';
 
 					modernblog_the_posts_navigation();
 
@@ -52,8 +54,6 @@ get_header();
 				endif;
 				?>
 			</div><!-- .content-area -->
-
-			<?php get_sidebar(); ?>
 		</div><!-- .row -->
 
 	</main><!-- #main -->
