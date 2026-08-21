@@ -9,7 +9,7 @@
 
 if ( ! defined( 'MODERNBLOG_VERSION' ) ) {
 	// Replace the version number of the theme on each release.
-	define( 'MODERNBLOG_VERSION', '1.1.0' );
+	define( 'MODERNBLOG_VERSION', '1.2.0' );
 }
 
 if ( ! function_exists( 'modernblog_setup' ) ) :
