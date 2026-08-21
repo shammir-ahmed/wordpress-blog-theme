@@ -12,7 +12,7 @@ get_header();
 
 	<main id="primary" class="site-main container">
 		
-		<div class="row">
+		<div class="row justify-content-center">
 			<div class="col-lg-8 content-area">
 				<?php
 				while ( have_posts() ) :
@@ -35,8 +35,6 @@ get_header();
 				endwhile; // End of the loop.
 				?>
 			</div><!-- .content-area -->
-
-			<?php get_sidebar(); ?>
 		</div><!-- .row -->
 
 	</main><!-- #main -->
