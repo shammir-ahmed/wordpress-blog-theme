@@ -12,6 +12,17 @@ if ( ! defined( 'MODERNBLOG_VERSION' ) ) {
 	define( 'MODERNBLOG_VERSION', '1.2.0' );
 }
 
+/**
+ * GitHub Theme Updater (Plugin Update Checker)
+ */
+require get_template_directory() . '/inc/puc/plugin-update-checker-master/plugin-update-checker.php';
+$myUpdateChecker = \YahnisElsts\PluginUpdateChecker\v5\PucFactory::buildUpdateChecker(
+	'https://github.com/shammir-ahmed/wordpress-blog-theme/',
+	__FILE__,
+	'modernblog'
+);
+$myUpdateChecker->setBranch('main');
+
 if ( ! function_exists( 'modernblog_setup' ) ) :
 	/**
 	 * Sets up theme defaults and registers support for various WordPress features.
