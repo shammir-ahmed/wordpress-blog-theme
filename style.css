@@ -1,0 +1,18 @@
+/*
+Theme Name: ModernBlog
+Theme URI: https://example.com/modernblog
+Author: Your Name
+Author URI: https://example.com
+Description: A complete, professional, modern and production-ready WordPress Blog Theme. Built for speed, SEO, and Elementor compatibility.
+Version: 1.0.0
+Requires at least: 5.8
+Tested up to: 6.4
+Requires PHP: 7.4
+Text Domain: modernblog
+Tags: blog, one-column, two-columns, right-sidebar, custom-background, custom-colors, custom-header, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, block-styles, wide-blocks, accessibility-ready
+*/
+
+/* 
+ * This file is primarily used for theme declaration.
+ * The main styles are enqueued from assets/css/main.css for better organization and performance.
+ */
