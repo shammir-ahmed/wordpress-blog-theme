@@ -8,13 +8,15 @@
 
 <article id="post-<?php the_ID(); ?>" <?php post_class( 'mb-post-card' ); ?>>
 	<header class="entry-header">
-        <?php if ( has_post_thumbnail() ) : ?>
-            <div class="post-thumbnail">
-                <a href="<?php the_permalink(); ?>">
+        <div class="post-thumbnail">
+            <a href="<?php the_permalink(); ?>">
+                <?php if ( has_post_thumbnail() ) : ?>
                     <?php the_post_thumbnail( 'large' ); ?>
-                </a>
-            </div>
-        <?php endif; ?>
+                <?php else : ?>
+                    <img src="https://picsum.photos/800/600?random=<?php echo get_the_ID(); ?>" alt="Placeholder Image" />
+                <?php endif; ?>
+            </a>
+        </div>
 
         <div class="entry-meta">
             <?php
