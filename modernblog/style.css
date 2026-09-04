@@ -254,6 +254,50 @@ a:hover {
 	color: var(--mb-primary);
 }
 
+/* Sidebar Widgets */
+.widget {
+	background: var(--mb-bg);
+	border: 1px solid var(--mb-border);
+	border-radius: 12px;
+	padding: 30px;
+	margin-bottom: 40px;
+}
+
+.widget-title {
+	font-size: 18px;
+	margin-bottom: 25px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	border-bottom: 2px solid var(--mb-border);
+	padding-bottom: 10px;
+}
+
+/* About Me Widget */
+.mb-about-widget-content {
+	text-align: center;
+}
+
+.mb-about-image img {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	object-fit: cover;
+	margin-bottom: 20px;
+	border: 3px solid var(--mb-bg-alt);
+	box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.mb-about-name {
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+
+.mb-about-bio {
+	font-size: 14px;
+	color: var(--mb-text-light);
+	line-height: 1.6;
+}
+
 /* Footer */
 .site-footer {
 	background: var(--mb-bg-alt);
