@@ -19,6 +19,14 @@
         </div>
 
         <div class="entry-meta">
+            <div class="post-category-badge" style="margin-bottom: 10px;">
+                <?php
+                $categories = get_the_category();
+                if ( ! empty( $categories ) ) {
+                    echo '<a href="' . esc_url( get_category_link( $categories[0]->term_id ) ) . '" style="display:inline-block; background:var(--mb-primary); color:#fff; padding:3px 10px; border-radius:4px; font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1px;">' . esc_html( $categories[0]->name ) . '</a>';
+                }
+                ?>
+            </div>
             <?php
             // Custom function for posted on and by
             echo '<span class="posted-on">' . get_the_date() . '</span>';
