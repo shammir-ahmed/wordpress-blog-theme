@@ -271,6 +271,7 @@ a:hover {
 .magzin-body-layout .content-area {
     flex: 1;
     min-width: 65%;
+    display: block; /* Override global grid */
 }
 
 .magzin-body-layout .widget-area {
