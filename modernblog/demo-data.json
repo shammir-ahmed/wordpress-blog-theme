@@ -1,0 +1,137 @@
+[
+  {
+    "title": "WordPress News Magazine Charts the Most Chic and Fashionable Women",
+    "excerpt": "Fashion is a popular aesthetic expression at a particular time, place and in a specific context.",
+    "category": "Fashion",
+    "subcategory": "Trends",
+    "image": "https://picsum.photos/id/1011/800/600",
+    "date": "August 7, 2026",
+    "author": "Armin Vans"
+  },
+  {
+    "title": "Game Changing Virtual Reality Console Hits the Market",
+    "excerpt": "A new VR console is changing the way we play games forever.",
+    "category": "Gadgets",
+    "subcategory": "Gaming",
+    "image": "https://picsum.photos/id/0/800/600",
+    "date": "August 8, 2026",
+    "author": "Tech Guru"
+  },
+  {
+    "title": "Discover the Most Magical Sunset in Santorini",
+    "excerpt": "Santorini sunsets are famous around the world, here is why.",
+    "category": "Travel",
+    "subcategory": "Europe",
+    "image": "https://picsum.photos/id/1015/800/600",
+    "date": "August 9, 2026",
+    "author": "Wanderlust"
+  },
+  {
+    "title": "Computer Filters Noise to Make You a Better Listener",
+    "excerpt": "New AI models can filter background noise in real-time.",
+    "category": "Gadgets",
+    "subcategory": "Reviews",
+    "image": "https://picsum.photos/id/1/800/600",
+    "date": "August 10, 2026",
+    "author": "Sound Expert"
+  },
+  {
+    "title": "Interior Designer and Maude Interiors by Yvonne Designs",
+    "excerpt": "A deep dive into classic and modern interior designs.",
+    "category": "Lifestyle",
+    "subcategory": "Interiors",
+    "image": "https://picsum.photos/id/103/800/600",
+    "date": "August 11, 2026",
+    "author": "Design Daily"
+  },
+  {
+    "title": "Have a look around this bold and colourful 1930s semi in London",
+    "excerpt": "Exploring retro designs that are making a huge comeback.",
+    "category": "Lifestyle",
+    "subcategory": "Architecture",
+    "image": "https://picsum.photos/id/1040/800/600",
+    "date": "August 12, 2026",
+    "author": "London Homes"
+  },
+  {
+    "title": "Outdoor Kitchen Decorating: Furnish and Accessorize with Flair",
+    "excerpt": "Summer is here, time to build that outdoor kitchen.",
+    "category": "Lifestyle",
+    "subcategory": "Decorating",
+    "image": "https://picsum.photos/id/1044/800/600",
+    "date": "August 13, 2026",
+    "author": "Backyard Builder"
+  },
+  {
+    "title": "Interior Design Tips: Decorating to Celebrate the Great Outdoors",
+    "excerpt": "Bring the outside in with these natural decor tips.",
+    "category": "Lifestyle",
+    "subcategory": "Decorating",
+    "image": "https://picsum.photos/id/1050/800/600",
+    "date": "August 14, 2026",
+    "author": "Nature Lover"
+  },
+  {
+    "title": "Top 10 Health Benefits of Morning Yoga",
+    "excerpt": "Why starting your day with yoga can change your life.",
+    "category": "Health & Fitness",
+    "subcategory": "Wellness",
+    "image": "https://picsum.photos/id/106/800/600",
+    "date": "August 15, 2026",
+    "author": "Yogi Bear"
+  },
+  {
+    "title": "The Best DSLR Cameras for Beginners in 2026",
+    "excerpt": "A comprehensive guide to buying your first professional camera.",
+    "category": "Gadgets",
+    "subcategory": "Photography",
+    "image": "https://picsum.photos/id/250/800/600",
+    "date": "August 16, 2026",
+    "author": "Shutterbug"
+  },
+  {
+    "title": "A Weekend Guide to Exploring Tokyo",
+    "excerpt": "Make the most of 48 hours in Japan's bustling capital.",
+    "category": "Travel",
+    "subcategory": "Asia",
+    "image": "https://picsum.photos/id/200/800/600",
+    "date": "August 17, 2026",
+    "author": "Global Nomad"
+  },
+  {
+    "title": "Minimalist Fashion: How to Build a Capsule Wardrobe",
+    "excerpt": "Less is more when it comes to timeless fashion.",
+    "category": "Fashion",
+    "subcategory": "Style Hunter",
+    "image": "https://picsum.photos/id/338/800/600",
+    "date": "August 18, 2026",
+    "author": "Chic Minimalist"
+  },
+  {
+    "title": "New Smartwatch Tracks Hydration Levels Accurately",
+    "excerpt": "Wearable tech takes another leap forward in health monitoring.",
+    "category": "Gadgets",
+    "subcategory": "Wearables",
+    "image": "https://picsum.photos/id/366/800/600",
+    "date": "August 19, 2026",
+    "author": "Tech Guru"
+  },
+  {
+    "title": "How to Prepare a Nutritious Plant-Based Breakfast",
+    "excerpt": "Start your day with high energy and no animal products.",
+    "category": "Health & Fitness",
+    "subcategory": "Diet",
+    "image": "https://picsum.photos/id/429/800/600",
+    "date": "August 20, 2026",
+    "author": "Vegan Chef"
+  },
+  {
+    "title": "The Ultimate Road Trip Through the Scottish Highlands",
+    "excerpt": "Castles, lochs, and breathtaking scenery await.",
+    "category": "Travel",
+    "subcategory": "Europe",
+    "image": "https://picsum.photos/id/447/800/600",
+    "date": "August 21, 2026",
+    "author": "Highlander"
+  }
+]

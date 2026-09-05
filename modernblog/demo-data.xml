@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<channel>
+	<title>ModernBlog Demo</title>
+	<link>http://localhost/</link>
+	<description>Demo Data for ModernBlog Theme</description>
+	<pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>http://localhost/</wp:base_site_url>
+	<wp:base_blog_url>http://localhost/</wp:base_blog_url>
+
+	<!-- Categories -->
+	<wp:category><wp:term_id>101</wp:term_id><wp:category_nicename>fashion</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Fashion]]></wp:cat_name></wp:category>
+	<wp:category><wp:term_id>102</wp:term_id><wp:category_nicename>trends</wp:category_nicename><wp:category_parent>fashion</wp:category_parent><wp:cat_name><![CDATA[Trends]]></wp:cat_name></wp:category>
+	
+	<wp:category><wp:term_id>103</wp:term_id><wp:category_nicename>gadgets</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Gadgets]]></wp:cat_name></wp:category>
+	<wp:category><wp:term_id>104</wp:term_id><wp:category_nicename>gaming</wp:category_nicename><wp:category_parent>gadgets</wp:category_parent><wp:cat_name><![CDATA[Gaming]]></wp:cat_name></wp:category>
+	<wp:category><wp:term_id>105</wp:term_id><wp:category_nicename>reviews</wp:category_nicename><wp:category_parent>gadgets</wp:category_parent><wp:cat_name><![CDATA[Reviews]]></wp:cat_name></wp:category>
+    <wp:category><wp:term_id>106</wp:term_id><wp:category_nicename>photography</wp:category_nicename><wp:category_parent>gadgets</wp:category_parent><wp:cat_name><![CDATA[Photography]]></wp:cat_name></wp:category>
+    <wp:category><wp:term_id>107</wp:term_id><wp:category_nicename>wearables</wp:category_nicename><wp:category_parent>gadgets</wp:category_parent><wp:cat_name><![CDATA[Wearables]]></wp:cat_name></wp:category>
+
+	<wp:category><wp:term_id>108</wp:term_id><wp:category_nicename>travel</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Travel]]></wp:cat_name></wp:category>
+	<wp:category><wp:term_id>109</wp:term_id><wp:category_nicename>europe</wp:category_nicename><wp:category_parent>travel</wp:category_parent><wp:cat_name><![CDATA[Europe]]></wp:cat_name></wp:category>
+    <wp:category><wp:term_id>110</wp:term_id><wp:category_nicename>asia</wp:category_nicename><wp:category_parent>travel</wp:category_parent><wp:cat_name><![CDATA[Asia]]></wp:cat_name></wp:category>
+
+	<wp:category><wp:term_id>111</wp:term_id><wp:category_nicename>lifestyle</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Lifestyle]]></wp:cat_name></wp:category>
+	<wp:category><wp:term_id>112</wp:term_id><wp:category_nicename>interiors</wp:category_nicename><wp:category_parent>lifestyle</wp:category_parent><wp:cat_name><![CDATA[Interiors]]></wp:cat_name></wp:category>
+    <wp:category><wp:term_id>113</wp:term_id><wp:category_nicename>architecture</wp:category_nicename><wp:category_parent>lifestyle</wp:category_parent><wp:cat_name><![CDATA[Architecture]]></wp:cat_name></wp:category>
+    <wp:category><wp:term_id>114</wp:term_id><wp:category_nicename>decorating</wp:category_nicename><wp:category_parent>lifestyle</wp:category_parent><wp:cat_name><![CDATA[Decorating]]></wp:cat_name></wp:category>
+
+    <wp:category><wp:term_id>115</wp:term_id><wp:category_nicename>health-fitness</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Health & Fitness]]></wp:cat_name></wp:category>
+    <wp:category><wp:term_id>116</wp:term_id><wp:category_nicename>wellness</wp:category_nicename><wp:category_parent>health-fitness</wp:category_parent><wp:cat_name><![CDATA[Wellness]]></wp:cat_name></wp:category>
+    <wp:category><wp:term_id>117</wp:term_id><wp:category_nicename>diet</wp:category_nicename><wp:category_parent>health-fitness</wp:category_parent><wp:cat_name><![CDATA[Diet]]></wp:cat_name></wp:category>
+
+
+	<!-- Posts -->
+	<item>
+		<title>WordPress News Magazine Charts the Most Chic and Fashionable Women</title>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[This is demo content. <br><br><img src="https://picsum.photos/id/1011/800/600" alt="Demo">]]></content:encoded>
+		<excerpt:encoded><![CDATA[Fashion is a popular aesthetic expression at a particular time, place and in a specific context.]]></excerpt:encoded>
+		<wp:post_date>2026-08-07 10:00:00</wp:post_date>
+		<wp:post_date_gmt>2026-08-07 10:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:status>publish</wp:status>
+		<wp:post_type>post</wp:post_type>
+		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
+	</item>
+
+	<item>
+		<title>Game Changing Virtual Reality Console Hits the Market</title>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[This is demo content. <br><br><img src="https://picsum.photos/id/0/800/600" alt="Demo">]]></content:encoded>
+		<excerpt:encoded><![CDATA[A new VR console is changing the way we play games forever.]]></excerpt:encoded>
+		<wp:post_date>2026-08-08 10:00:00</wp:post_date>
+		<wp:post_date_gmt>2026-08-08 10:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:status>publish</wp:status>
+		<wp:post_type>post</wp:post_type>
+		<category domain="category" nicename="gadgets"><![CDATA[Gadgets]]></category>
+		<category domain="category" nicename="gaming"><![CDATA[Gaming]]></category>
+	</item>
+
+	<item>
+		<title>Discover the Most Magical Sunset in Santorini</title>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[This is demo content. <br><br><img src="https://picsum.photos/id/1015/800/600" alt="Demo">]]></content:encoded>
+		<excerpt:encoded><![CDATA[Santorini sunsets are famous around the world, here is why.]]></excerpt:encoded>
+		<wp:post_date>2026-08-09 10:00:00</wp:post_date>
+		<wp:post_date_gmt>2026-08-09 10:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:status>publish</wp:status>
+		<wp:post_type>post</wp:post_type>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
+		<category domain="category" nicename="europe"><![CDATA[Europe]]></category>
+	</item>
+
+	<item>
+		<title>Computer Filters Noise to Make You a Better Listener</title>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[This is demo content. <br><br><img src="https://picsum.photos/id/1/800/600" alt="Demo">]]></content:encoded>
+		<excerpt:encoded><![CDATA[New AI models can filter background noise in real-time.]]></excerpt:encoded>
+		<wp:post_date>2026-08-10 10:00:00</wp:post_date>
+		<wp:post_date_gmt>2026-08-10 10:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:status>publish</wp:status>
+		<wp:post_type>post</wp:post_type>
+		<category domain="category" nicename="gadgets"><![CDATA[Gadgets]]></category>
+		<category domain="category" nicename="reviews"><![CDATA[Reviews]]></category>
+	</item>
+
+	<item>
+		<title>Interior Designer and Maude Interiors by Yvonne Designs</title>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[This is demo content. <br><br><img src="https://picsum.photos/id/103/800/600" alt="Demo">]]></content:encoded>
+		<excerpt:encoded><![CDATA[A deep dive into classic and modern interior designs.]]></excerpt:encoded>
+		<wp:post_date>2026-08-11 10:00:00</wp:post_date>
+		<wp:post_date_gmt>2026-08-11 10:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:status>publish</wp:status>
+		<wp:post_type>post</wp:post_type>
+		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+		<category domain="category" nicename="interiors"><![CDATA[Interiors]]></category>
+	</item>
+
+    <item>
+		<title>Have a look around this bold and colourful 1930s semi in London</title>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[This is demo content. <br><br><img src="https://picsum.photos/id/1040/800/600" alt="Demo">]]></content:encoded>
+		<excerpt:encoded><![CDATA[Exploring retro designs that are making a huge comeback.]]></excerpt:encoded>
+		<wp:post_date>2026-08-12 10:00:00</wp:post_date>
+		<wp:post_date_gmt>2026-08-12 10:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:status>publish</wp:status>
+		<wp:post_type>post</wp:post_type>
+		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+		<category domain="category" nicename="architecture"><![CDATA[Architecture]]></category>
+	</item>
+    
+    <item>
+		<title>Top 10 Health Benefits of Morning Yoga</title>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[This is demo content. <br><br><img src="https://picsum.photos/id/106/800/600" alt="Demo">]]></content:encoded>
+		<excerpt:encoded><![CDATA[Why starting your day with yoga can change your life.]]></excerpt:encoded>
+		<wp:post_date>2026-08-15 10:00:00</wp:post_date>
+		<wp:post_date_gmt>2026-08-15 10:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:status>publish</wp:status>
+		<wp:post_type>post</wp:post_type>
+		<category domain="category" nicename="health-fitness"><![CDATA[Health & Fitness]]></category>
+		<category domain="category" nicename="wellness"><![CDATA[Wellness]]></category>
+	</item>
+
+    <item>
+		<title>The Best DSLR Cameras for Beginners in 2026</title>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[This is demo content. <br><br><img src="https://picsum.photos/id/250/800/600" alt="Demo">]]></content:encoded>
+		<excerpt:encoded><![CDATA[A comprehensive guide to buying your first professional camera.]]></excerpt:encoded>
+		<wp:post_date>2026-08-16 10:00:00</wp:post_date>
+		<wp:post_date_gmt>2026-08-16 10:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:status>publish</wp:status>
+		<wp:post_type>post</wp:post_type>
+		<category domain="category" nicename="gadgets"><![CDATA[Gadgets]]></category>
+		<category domain="category" nicename="photography"><![CDATA[Photography]]></category>
+	</item>
+
+    <item>
+		<title>A Weekend Guide to Exploring Tokyo</title>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[This is demo content. <br><br><img src="https://picsum.photos/id/200/800/600" alt="Demo">]]></content:encoded>
+		<excerpt:encoded><![CDATA[Make the most of 48 hours in Japan's bustling capital.]]></excerpt:encoded>
+		<wp:post_date>2026-08-17 10:00:00</wp:post_date>
+		<wp:post_date_gmt>2026-08-17 10:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:status>publish</wp:status>
+		<wp:post_type>post</wp:post_type>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
+		<category domain="category" nicename="asia"><![CDATA[Asia]]></category>
+	</item>
+
+    <item>
+		<title>Minimalist Fashion: How to Build a Capsule Wardrobe</title>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[This is demo content. <br><br><img src="https://picsum.photos/id/338/800/600" alt="Demo">]]></content:encoded>
+		<excerpt:encoded><![CDATA[Less is more when it comes to timeless fashion.]]></excerpt:encoded>
+		<wp:post_date>2026-08-18 10:00:00</wp:post_date>
+		<wp:post_date_gmt>2026-08-18 10:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:status>publish</wp:status>
+		<wp:post_type>post</wp:post_type>
+		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+	</item>
+</channel>
+</rss>
